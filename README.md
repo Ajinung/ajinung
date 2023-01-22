@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Isaac ETor</h1>
-<h3 align="center">A passionate fullstack software engineer from Nigeria</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
+</div>  
+  
 
-<p align="left"> <a href="https://twitter.com/izicketor" target="blank"><img src="https://img.shields.io/twitter/follow/izicketor?logo=twitter&style=for-the-badge" alt="izicketor" /></a> </p>
+### <div align="center">I'm Isaac Etor, A passionate fullstack software engineer from Nigeria 👨‍💻 </div> 
 
 - 📝 I regularly write articles on [https://isaacetor.medium.com/](https://isaacetor.medium.com/)
 
-- 💬 Ask me about **reactjs, expressjs, nodejs**
+- 🌱 I’m currently learning ExpressJs and ReactJs
+
+- ❓ Ask me about anything related to MERN stack and related technologies   
 
 - 📫 How to reach me **isaacetor7@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😂**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
