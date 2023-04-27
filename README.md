@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://isaacetor.medium.com/](https://isaacetor.medium.com/)
 
-- 🌱 I’m currently learning ExpressJs and ReactJs
+- 🌱 I write Nodejs, ExpressJs and ReactJs
 
 - ❓ Ask me about anything related to MERN stack and related technologies   
 
